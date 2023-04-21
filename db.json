@@ -13,6 +13,34 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "name": "Paau",
+      "age": "2",
+      "place": "Delhi",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "name": "Labra",
+      "age": "1",
+      "place": "Delhi",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "kaalu",
+      "age": "1",
+      "place": "Bnaaras",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "name": "tatiya",
+      "age": "12",
+      "place": "banglore",
+      "gender": "Male",
+      "id": 5
     }
   ]
 }
